@@ -8066,6 +8066,14 @@ Zimpl:
   tm_scope: none
   ace_mode: text
   language_id: 411
+ZScript:
+  type: programming
+  color: "#dddddd"
+  extensions:
+  - ".zs"
+  - ".zsc"
+  
+
 cURL Config:
   type: data
   group: INI
