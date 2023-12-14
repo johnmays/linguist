@@ -3264,6 +3264,12 @@ JSONiq:
   - ".jq"
   tm_scope: source.jsoniq
   language_id: 177
+Jai:
+  type: programming
+  extensions:
+  - ".jai"
+  color: "#ff671f"
+  ace_mode: text
 Janet:
   type: programming
   color: "#0886a5"
